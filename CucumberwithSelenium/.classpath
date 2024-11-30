@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/cucumber-java-6.10.2.jar"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/CUcumber Jar File/Cucumberjars/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/selenium JAR file/selenium-server-4.13.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
